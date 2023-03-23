@@ -2,6 +2,8 @@
 2.环境：Clion2022.3.1+QT5.6（32位）+MySQL5.7（32位）  
 3.运行效果图
 
+如果对你有帮助，帮忙点个star吧！！！
+
 ![](https://s3.bmp.ovh/imgs/2023/03/23/71603392261ba3fc.png)
 
 ![](https://s3.bmp.ovh/imgs/2023/03/23/3b4704cd6947367e.png)
